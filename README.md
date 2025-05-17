@@ -65,3 +65,4 @@ npm start server
 - [ ] Remember to include your Database in db.js and your Stripe Secret Key in .env
 
 # WAD-PROJECT
+# WAD_project
